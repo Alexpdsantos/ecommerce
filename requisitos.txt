@@ -1,0 +1,3 @@
+
+"Ativar o ambiente virtual"
+ .\venv\Scripts\activate
